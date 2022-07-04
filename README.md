@@ -4,5 +4,5 @@ Based upon past approved loan data, Lending club wants to understand the drivin
 Provide the EDA based analysis on driving factors and possible recommendations. 
 
 Contributors:
-Vinit Kumar
-Shajahan
+* [Vinit Kumar](https://github.com/VinitKr22/)
+* [Shajahan]
