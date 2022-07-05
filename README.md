@@ -3,6 +3,5 @@
 Based upon past approved loan data, Lending club wants to understand the driving factors behind loan default. So that lending club can utilize this knowledge for its portfolio and risk assessment. We need to
 Provide the EDA based analysis on driving factors and possible recommendations. 
 
-Contributors:
+Author:
 * [Vinit Kumar](https://github.com/VinitKr22/)
-* [Shajahan]
